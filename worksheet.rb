@@ -1,6 +1,6 @@
 ########################################################
 # Step 1: Establish the layers
-
+puts "I'm done!"
 # In this section of the file, as a series of comments,
 # create a list of the layers you identify.
 # Which layers are nested in each other?
